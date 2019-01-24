@@ -1,0 +1,10 @@
+# Story Books
+
+A social network for creating public or private stories. Users can choose to allow or disable comments per story using Google Auth
+
+# ScreenShot
+
+<img width="766" alt="screen shot 2019-01-24 at 12 32 21 pm" src="https://user-images.githubusercontent.com/28902787/51706721-30935300-1fd4-11e9-8a20-1c8624b94178.png">
+<img width="783" alt="screen shot 2019-01-24 at 12 32 08 pm" src="https://user-images.githubusercontent.com/28902787/51706725-31c48000-1fd4-11e9-945f-dea04978f91a.png">
+
+**[View Live](https://stark-bayou-10776.herokuapp.com/)**
